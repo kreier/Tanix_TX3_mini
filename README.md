@@ -27,3 +27,7 @@ Strange, I got them in 2018, by 2020 it looked like no newer kernels would be re
 
 Last login: Mon Sep 21 18:03:13 2026 from 10.10.10.30
 ```
+
+And the result of `fastfetch` is
+
+![Fastfetch](with-led/img/20260921_fastfetch.png)
