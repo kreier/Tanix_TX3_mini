@@ -1,0 +1,4 @@
+rootdev=UUID=e4f3cef1-6360-464a-a70d-21cfd96b763c
+rootdev=LABEL=ROOTFS
+rootfstype=ext4
+usbstoragequirks=0x2537:0x1066:u,0x2537:0x1068:u
